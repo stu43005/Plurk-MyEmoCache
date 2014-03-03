@@ -1,11 +1,14 @@
-[Plurk-Smile](https://chrome.google.com/webstore/detail/plurk-smile/aomdjjfldjbbnojlonpahdajglndlomc)
+[Plurk-MyEmoCache](https://chrome.google.com/webstore/detail/plurk-myemocache/gfncpdpkanpheljmlknbpgcmgjdbppke)
 ===
 
-顯示隱藏的噗浪表情。
+Plurk 表情符號快取，避免每次瀏覽都重新下載。
 
-1. 沒有設定頁面。
-2. 包含所有隱藏、季節限定的表情(如有缺少請回報)。
-3. 表情列表的寬度加寬。
+將噗浪的表情及自訂表情強制設定快取時間(1年)
 
-[自訂表情官方介紹](http://zh.blog.plurk.com/archives/758)
-[自訂表情列表](http://dl.dropbox.com/u/4211700/chrome/Plurk-Smile_nocode.html)(未更新)
+過濾器設置如下：
+
+  * urls:
+    1. http://statics.plurk.com/*
+    2. http://emos.plurk.com/*
+	
+  * types: image
